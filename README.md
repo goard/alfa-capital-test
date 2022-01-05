@@ -1,11 +1,11 @@
 # Test job
 
 SPA application for alfa capital company.
-[Demo web App](https://goard.github.io/alfa-capital-test/)
+[Demo web App](https://goard.github.io/alfa-capital-test/).
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app){:target="_blank"}.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
