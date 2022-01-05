@@ -5,7 +5,7 @@ SPA application for alfa capital company.
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app){:target="_blank"}.
 
 ## Available Scripts
 
