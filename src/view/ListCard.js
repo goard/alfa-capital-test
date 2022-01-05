@@ -26,11 +26,15 @@ const ListCard = () => {
       case "succeeded":
         return (
           <div className="cards">
-            {cards.map((el) => (
-              <div key={el} className="card">
-                <ListCardItem id={el} />
-              </div>
-            ))}
+            {cards.length !== 0 ? (
+              cards.map((el) => (
+                <div key={el} className="card">
+                  <ListCardItem id={el} />
+                </div>
+              ))
+            ) : (
+              <h4 style={{ margin: "auto" }}>No cards</h4>
+            )}
           </div>
         );
       default:
